@@ -8,6 +8,7 @@ RUN dnf -y install \
     expat \
     gcc \
     glibc-headers \
+    glibc-langpack-en \
     time \
     man \
     unzip \
